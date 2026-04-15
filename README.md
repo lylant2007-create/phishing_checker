@@ -2,8 +2,6 @@
 
 A unique anti-phishing mini-project built with Python to analyze common malicious URL patterns (like Typosquatting and suspicious TLDs). The application features a custom pixel art GUI interface built using Tkinter and the PIL library.
 
-![Uploading image.png…]()
-
 
 ##  How to Run the Application
 
@@ -37,3 +35,6 @@ Once the prerequisites are installed, you can launch the application directly fr
     ```
 
 The Pixel Art GUI window will open, allowing you to enter URLs and check for phishing signs!
+
+<img width="1390" height="678" alt="image" src="https://github.com/user-attachments/assets/f8ae3840-d1d7-4959-8a9e-7543b5a62ac1" />
+
